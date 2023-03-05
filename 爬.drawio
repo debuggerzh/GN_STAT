@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T10:29:32.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="5pWgLV_SrGPfjXhxkWaV" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-05T12:13:34.005Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="-0e89rOBHytrl9eOZB7J" version="21.0.2" type="github" pages="2">
   <diagram name="第 1 页" id="nQlr9GFURZzDEoVCfcfC">
     <mxGraphModel dx="746" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,6 +30,56 @@
         </mxCell>
         <mxCell id="K7inDOeft05gNl3zrPGS-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Danmaku Files&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="K7inDOeft05gNl3zrPGS-14">
           <mxGeometry x="36" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bZhEYfWloO3SkR7YYf2T" name="第 2 页">
+    <mxGraphModel dx="746" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qTA5upGFRFrKC-k6Tpi4-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="130" width="156" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qTA5upGFRFrKC-k6Tpi4-2" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="qTA5upGFRFrKC-k6Tpi4-1">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qTA5upGFRFrKC-k6Tpi4-3" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="qTA5upGFRFrKC-k6Tpi4-1">
+          <mxGeometry x="16" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qTA5upGFRFrKC-k6Tpi4-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Danmaku Files&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="qTA5upGFRFrKC-k6Tpi4-1">
+          <mxGeometry x="36" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qTA5upGFRFrKC-k6Tpi4-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="510" y="130" width="156" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qTA5upGFRFrKC-k6Tpi4-6" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="qTA5upGFRFrKC-k6Tpi4-5">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qTA5upGFRFrKC-k6Tpi4-7" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="qTA5upGFRFrKC-k6Tpi4-5">
+          <mxGeometry x="16" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qTA5upGFRFrKC-k6Tpi4-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Danmaku Words&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="qTA5upGFRFrKC-k6Tpi4-5">
+          <mxGeometry x="36" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qTA5upGFRFrKC-k6Tpi4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="qTA5upGFRFrKC-k6Tpi4-4" target="qTA5upGFRFrKC-k6Tpi4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qTA5upGFRFrKC-k6Tpi4-10" value="Tokenization" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="qTA5upGFRFrKC-k6Tpi4-9">
+          <mxGeometry x="-0.1217" relative="1" as="geometry">
+            <mxPoint x="14" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qTA5upGFRFrKC-k6Tpi4-11" value="Word Cloud" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#0066CC;fontSize=18;verticalAlign=middle;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="300" y="350" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qTA5upGFRFrKC-k6Tpi4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qTA5upGFRFrKC-k6Tpi4-8" target="qTA5upGFRFrKC-k6Tpi4-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="606" y="400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
